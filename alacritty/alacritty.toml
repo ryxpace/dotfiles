@@ -1,0 +1,33 @@
+import = ["~/.config/alacritty/color.toml"]
+live_config_reload = true
+
+[shell]
+program = "/usr/bin/fish"
+
+[font.normal]
+family = "Jetbrains Mono Nerd Font"
+style = "Regular"
+
+[font]
+size = 10.0
+
+[window]
+opacity = 0.9
+dynamic_padding = true
+dynamic_title = true
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Dark"
+
+[window.padding]
+x=10
+y=10
+
+[selection]
+save_to_clipboard = true
+
+[cursor]
+unfocused_hollow = true
+
+[cursor.style]
+shape = "Block"
