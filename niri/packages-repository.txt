@@ -7,6 +7,7 @@ cliphist
 dex
 egl-wayland
 foot
+fuzzel
 greetd
 greetd-tuigreet
 grim
@@ -30,11 +31,12 @@ swappy
 swayidle
 swaylock
 sysstat
-ttf-jetbrain-mono
+ttf-jetbrains-mono
 ttf-nerd-fonts-symbols
 ttf-roboto
 waybar
 wayland-protocols
 wl-clipboard
 xdg-desktop-portal-wlr
+xdg-desktop-portal-gtk
 xed
